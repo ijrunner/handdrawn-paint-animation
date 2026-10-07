@@ -1,0 +1,19 @@
+{
+  "img": "example_ink.png",
+  "out": "shot_example.mp4",
+  "size": [1920, 1080],
+  "fps": 24,
+  "dur": 9.0,
+  "seed": 213,
+  "soft": 0.4,
+  "ink_dur": 1.5,
+  "col_frac": 0.55,
+  "strokes1": 22,
+  "strokes2": 10,
+  "preset": "veryfast",
+  "crf": 18,
+  "overlays": [{"type": "dust", "n": 30, "seed": 11}],
+  "texts": [
+    {"str": "这一句会以手写体淡入", "t0": 2.4, "hold": 3.0, "size": 54}
+  ]
+}

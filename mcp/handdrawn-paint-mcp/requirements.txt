@@ -1,0 +1,4 @@
+numpy>=1.24
+opencv-python-headless>=4.8
+Pillow>=10
+# 系统依赖（不在 pip 里）/ system dependency: ffmpeg / ffprobe >= 5.0
