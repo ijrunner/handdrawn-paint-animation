@@ -5,6 +5,8 @@
 
 [中文](#-中文) · [English](#-english)
 
+> **仓库镜像 Mirrors** · GitHub：https://github.com/ijrunner/handdrawn-paint-animation ｜ CNB：https://cnb.cool/cnb_edgerunner/handdrawn-paint-animation
+
 ---
 
 ## 🇨🇳 中文
